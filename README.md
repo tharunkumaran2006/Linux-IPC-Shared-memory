@@ -20,9 +20,9 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 
-Developed by : MOHAMMED SAAJID S
+Developed by : THARUN V K
 
-Register Number : 212223240093
+Register Number : 212223230231
 
 
 ## Write a C program that illustrates two processes communicating using shared memory.
